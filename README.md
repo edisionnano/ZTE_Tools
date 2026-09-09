@@ -1,4 +1,4 @@
-# ZTE_Tools
+# ZTE Tools
 Tools for ZTE routers provided by Greek ISPs
 
 ## Available Routers
