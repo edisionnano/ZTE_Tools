@@ -23,5 +23,4 @@ For the Forthnet version the credentials are:
 forthnet
 F0rth@c$n3t#
 ```
-<br>
-If using it on WAN mode, the valid credentials are `admin`/`admin` and `user`/`user`
+<br>If using it on WAN mode, the valid credentials are `admin`/`admin` and `user`/`user`
