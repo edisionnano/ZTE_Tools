@@ -24,3 +24,6 @@ forthnet
 F0rth@c$n3t#
 ```
 <br>If using it on WAN mode, the valid credentials are `admin`/`admin` and `user`/`user`
+
+## Decrypting the rootfs
+You can find firmware images [here](https://github.com/k-marios/Gr_ISP_Router_Firmware). While not the case on Forthnet, the rootfs portion of Vodafone's firmware images is encrypted, you can use the `decrypt_ota.py` script to decrypt it and then `binwalk -Me` to extract it.
