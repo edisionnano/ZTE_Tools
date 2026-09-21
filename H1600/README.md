@@ -15,7 +15,7 @@ python zte-config-utility/examples/decode.py --model "H1600" db_default_auto_cfg
 2. After the downgrade is confirmed, you will have the option to download a configuration backup, do that.
 3. Decrypt the config file using [ZTE Config Utility](github.com/mkst/zte-config-utility) and the following command
 ```sh
-python ./examples/decode.py config.bin config.xml --key 'ZTEH1600Key02670001' --iv 'ZTEH1600Iv02670001'
+python examples/auto.py config.bin config.xml'
 ```
 4. Find `<Tbl name="DevAuthInfo" RowCount="7">` and enable the first user (`Admin`)
 5. Save and re-encrypt using
