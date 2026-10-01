@@ -1,30 +1,20 @@
-import struct
-import sys
-import zlib
+import struct, sys, zlib, hashlib
+from cryptography.hazmat.primitives.ciphers import Cipher, algorithms, modes
 
-HEADER_LEN = 0x48
-TOTAL_SIZE_OFF = 0x08
-
+def chunks(d):
+    p = 60
+    while True:
+        _, n, more = struct.unpack(">3I", d[p:p+12])
+        yield d[p+12:p+12+n]
+        p += 12 + n
+        if not more:
+            return
 
 def decode(data):
-    total_size = struct.unpack(">I", data[TOTAL_SIZE_OFF:TOTAL_SIZE_OFF + 4])[0]
-    out = b""
-    pos = HEADER_LEN
-    chunk_no = 0
-    while len(out) < total_size and pos < len(data):
-        if chunk_no > 0:
-            pos += 12
-        d = zlib.decompressobj()
-        piece = d.decompress(data[pos:])
-        piece += d.flush()
-        consumed = len(data[pos:]) - len(d.unused_data)
-        out += piece
-        pos += consumed
-        chunk_no += 1
-    return out
+    key = hashlib.sha256(b"CHIP_RTL8676_KEY").digest()
+    iv = hashlib.sha256(b"CHIP_RTL8676_IV").digest()[:16]
+    c = Cipher(algorithms.AES(key), modes.CBC(iv)).decryptor()
+    inner = c.update(b"".join(chunks(data))) + c.finalize()
+    return b"".join(zlib.decompress(x) for x in chunks(inner))
 
-
-with open(sys.argv[1], "rb") as f:
-    data = f.read()
-with open(sys.argv[2], "wb") as f:
-    f.write(decode(data))
+open(sys.argv[2], "wb").write(decode(open(sys.argv[1], "rb").read()))
