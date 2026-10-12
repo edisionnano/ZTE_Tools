@@ -2,7 +2,9 @@
 Tools for ZTE routers provided by Greek ISPs
 
 ## Available Routers
-➣ [H268Q V8](H268Q%20V8) - Firmware and Default configuration decryption for the ZTE ZXHN H268Q V8 Wi-Fi 6
+➣ [H268Q V8 WiFi 6](H268Q%20V8) - Firmware and Default configuration decryption for the ZTE ZXHN H268Q V8 Wi-Fi 6
+
+➣ [H268Q V7 WiFi 5](H268Q%20V7) - Firmware and Default configuration decryption for the ZTE ZXHN H268Q V7 Wi-Fi 5
 
 ➣ [F8648P](https://github.com/edisionnano/F8648P) - The main router of DEI Fiber, also provided by Telekom Greece for 3 Gbps connections. Includes tools to decrypt the user config, find the admin password and get shell access among other things
 
@@ -13,3 +15,10 @@ Tools for ZTE routers provided by Greek ISPs
 ➣ [H208N](H208N) - Old ADSL router initially provided by Cyta and then Vodafone, root password is `Extra,ODP0ptiOns%H208N$`
 
 ➣ [H1600](H1600) - The latest DSL router provided by Cosmote Telekom
+
+➣ [H288A](H288a) - DSL router provided by NOVA
+
+## General Info and Tips
+ - To get full privileges when enabling Telnet and SSH, in their respective blocks change fields level to 1 and `ProcType` to 0, if they exist.
+
+- To get the signature needed to re-encrypt the user configuration file just run `hexedit` on the encrypted config and you will find a string at the top that describes the router's model, for example `ZXHN H267A V1.0`. If the file starts with `DDDDUUUU` you will also need to use the `--include-header` flag when re-encrypting with zte config utility.

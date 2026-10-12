@@ -31,6 +31,6 @@ After you get the plaintext `config.xml` you can manipulate it to enable the roo
 and flip the enable value
 <br>To repackage the config use
 ```
-python ./zte-config-utility/examples/encode.py config.xml config.bin --key 4cee9f56c18bc0f9 --signature "Speedport Entry 2i"
+python ./zte-config-utility/examples/encode.py config.xml config.bin --key 4cee9f56c18bc0f9 --signature "Speedport Entry 2i" --include-header
 ```
-(with your own key) to encrypt it and then use the `fix.py` script to add the required `DDDDUUUU` header before restoring it on the web interface.
+(with your own key) to encrypt it and then restore from the web interface.
