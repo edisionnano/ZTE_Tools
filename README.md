@@ -20,6 +20,8 @@ Tools for ZTE routers provided by Greek ISPs
 
 ➣ [H267A](H267A) - DSL router provided by Vodafone for retail and One Net customers. Use `--model "ZXHN H267A V1.0 VDFSOHO"` in ZCU for One Net and `ZXHN H267A V1.0` for retail.
 
+➣ [H267N](H267N) - DSL router provided by Vodafone
+
 ## General Info and Tips
  - To get full privileges when enabling Telnet and SSH, in their respective blocks change fields level to 1 and `ProcType` to 0, if they exist.
 
