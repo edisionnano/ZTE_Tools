@@ -12,7 +12,7 @@ Tools for ZTE routers provided by Greek ISPs
 
 ➣ [H268N / Speedport Entry 2i](H268N) - ADSL Router mostly provided by Cosmote as Speedport Entry 2i and also by WIND as ZXHN H268N
 
-➣ [H208N](H208N) - Old ADSL router initially provided by Cyta and then Vodafone, root password is `Extra,ODP0ptiOns%H208N$`
+➣ [H208N](H208N) - Old ADSL router initially provided by Cyta and then Vodafone, for the CyTA version use `--key 'Renjx%2$CjM'` to decrypt the user config with ZCU
 
 ➣ [H1600](H1600) - The latest DSL router provided by Cosmote Telekom
 
