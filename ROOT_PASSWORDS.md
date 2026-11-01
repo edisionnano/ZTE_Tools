@@ -77,10 +77,10 @@ This repository was created to research vulnerabilities in ZTE routers provided 
 
 | Country | Provider | User | Pass |
 |---|---|---|---|
-| Bulgaria | A1 Bulgaria | admin | s0kz1mDpcI. |
+| Bulgaria | A1 Bulgaria | admin | KoKi@06boKi |
 
 ## H3600P
 
 | Country | Provider | User | Pass |
 |---|---|---|---|
-| Serbia | Yettel Serbia | admin | KoKi@06boKi |
+| Serbia | Yettel Serbia | admin | s0kz1mDpcI. |
