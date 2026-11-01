@@ -22,7 +22,7 @@ Tools for ZTE routers provided by Greek ISPs
 
 ➣ [H267N](H267N) - DSL router provided by Vodafone (ex. CyTA)
 
-➣ [F6625P & F8748](F6625P_F8748) - PON provided by DEI Fiber (PPC)
+➣ [F6625P & F8748](F6625P_F8748) - PON provided by DEI Fiber (PPC). Default DB xml decrypts the same way as F8648P
 
 ## General Info and Tips
  - To get full privileges when enabling Telnet and SSH, in their respective blocks change fields level to 1 and `ProcType` to 0, if they exist.
