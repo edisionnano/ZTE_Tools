@@ -28,3 +28,6 @@ Tools for ZTE routers provided by Greek ISPs
  - To get full privileges when enabling Telnet and SSH, in their respective blocks change fields level to 1 and `ProcType` to 0, if they exist.
 
 - To get the signature needed to re-encrypt the user configuration file just run `hexedit` on the encrypted config and you will find a string at the top that describes the router's model, for example `ZXHN H267A V1.0`. If the file starts with `DDDDUUUU` you will also need to use the `--include-header` flag when re-encrypting with zte config utility.
+
+## Non-Greek Root Passwords
+All root/superuser passwords from non-greek ISPs discovered as a corollary of these research are gathered [here](ROOT_PASSWORDS.md)
