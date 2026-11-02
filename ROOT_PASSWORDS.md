@@ -84,3 +84,8 @@ This repository was created to research vulnerabilities in ZTE routers provided 
 | Country | Provider | User | Pass |
 |---|---|---|---|
 | Serbia | Yettel Serbia | admin | s0kz1mDpcI. |
+
+## H5745
+| Country | Provider | User | Pass |
+|---|---|---|---|
+| Italy | Wind Tre | superadmin | W3@7D_1z |
