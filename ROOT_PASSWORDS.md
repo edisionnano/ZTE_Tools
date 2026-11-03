@@ -86,6 +86,68 @@ This repository was created to research vulnerabilities in ZTE routers provided 
 | Serbia | Yettel Serbia | admin | s0kz1mDpcI. |
 
 ## H5745
+
 | Country | Provider | User | Pass |
 |---|---|---|---|
 | Italy | Wind Tre | superadmin | W3@7D_1z |
+
+## F6600P
+
+| Country | Provider | User | Pass |
+|---|---|---|---|
+| Argentina | Claro Argentina | admin | Web@0063 |
+| Argentina | Claro Argentina | user | Web@0763 |
+| Argentina | Iplan | admin | admin |
+| Argentina | Iplan | user | Web@0763 |
+| Bolivia | Entel Bolivia | admin | 4FR0D!74@#2015 |
+| Bolivia | Entel Bolivia | user | user |
+| Brazil | TIM Brasil | L1vt1m4eng | admin |
+| Brazil | Multilaser | multipro | multipro |
+| Brazil | Multilaser | user | Web@0763 |
+| Chile | Claro Chile | admin | C14R0C$1L3 |
+| Chile | Claro Chile | user | claro171 |
+| Chile | DirecTV Chile | operator | D1reC7V@Dm1n |
+| Chile | DirecTV Chile | user | Web@0763 |
+| Chile | Entel Chile | entel | Gponinstalador@123 |
+| Chile | Entel Chile | user | entel |
+| Chile | WOM Chile | womtelecom | telecomw0m! |
+| Chile | WOM Chile | user | Web@0763 |
+| Colombia | ETB (Emp. Telecomunicaciones Bogotá) | Administrador | AdminGPON2013etb |
+| Colombia | ETB (Emp. Telecomunicaciones Bogotá) | user | Web@0763 |
+| Ecuador | Netlife | admin | Web@0063 |
+| Ecuador | Netlife | user | Web@0763 |
+| Hungary | Digi (RCS&RDS) | rdsadmin | TW20f0F6YsujMuzy1a4KzgFgpA |
+| Hungary | Digi (RCS&RDS) | user | digi |
+| India | Airtel | admin | admin |
+| India | Airtel | user | Web@0763 |
+| Indonesia | First Media (Linknet) | admin | @LN2018FmZTEzxhn |
+| Indonesia | First Media (Linknet) | user | Web@0763 |
+| Indonesia | iForte | admin | 1f0rt3f1b3r@zte |
+| Indonesia | iForte | user | Web@0763 |
+| Indonesia | Telkom Indonesia | admin | Telkomdso123 |
+| Indonesia | Telkom Indonesia | user | Web@0763 |
+| Mexico | Megacable | admin | Web@0063 |
+| Mexico | Megacable | user | Web@0763 |
+| Mexico | TotalPlay | admin | Zgs12O5TSa2l3o9 |
+| Mexico | TotalPlay | root | admin |
+| Peru | Claro Peru | admin | ftth@dm1n1str@t0r |
+| Peru | Claro Peru | technician | fttht3chn1c1@n |
+| Peru | Claro Peru | user | userftth |
+| Peru | Hayex | admin | Web@0063 |
+| Peru | Hayex | user | Web@0763 |
+| Philippines | Converge ICT | admin | Converge@zte123 |
+| Philippines | Converge ICT | operator | operator@123 |
+| Philippines | Converge ICT | user | user |
+| Philippines | Globe | user | Web@0763 |
+| Philippines | PLDT | adminpldt | HL1EU9804BKjTa6734uP370 |
+| Philippines | PLDT | admin | 1234 |
+| Romania | Digi (RCS&RDS) | rdsadmin | TW20f0F6YsujMuzy1a4KzgFgpA |
+| Romania | Digi (RCS&RDS) | user | digi |
+| Thailand | AIS (awn fibre) | awnfibre | fibre@dm!n |
+| Thailand | AIS (awn fibre) | admin | aisadmin |
+| Thailand | TOT | admin | admin |
+| Thailand | True | superadmin | TRUE@cmpAWes123 |
+| Turkey | Türk Telekom | root | $F1r1@dl |
+| Turkey | Türk Telekom | admin | admin |
+| Vietnam | VNPT | admin | Web@0063 |
+| Vietnam | VNPT | user | Web@0763 |
