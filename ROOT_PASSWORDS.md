@@ -98,7 +98,6 @@ This repository was created to research vulnerabilities in ZTE routers provided 
 | Argentina | Claro Argentina | admin | Web@0063 |
 | Argentina | Claro Argentina | user | Web@0763 |
 | Bolivia | Entel Bolivia | admin | 4FR0D!74@#2015 |
-| Bolivia | Entel Bolivia | user | user |
 | Brazil | TIM Brasil | L1vt1m4eng | admin |
 | Brazil | Multilaser | multipro | multipro |
 | Brazil | Multilaser | user | Web@0763 |
@@ -133,7 +132,6 @@ This repository was created to research vulnerabilities in ZTE routers provided 
 | Peru | Hayex | user | Web@0763 |
 | Philippines | Converge ICT | admin | Converge@zte123 |
 | Philippines | Converge ICT | operator | operator@123 |
-| Philippines | Converge ICT | user | user |
 | Philippines | Globe | user | Web@0763 |
 | Philippines | PLDT | adminpldt | HL1EU9804BKjTa6734uP370 |
 | Philippines | PLDT | admin | 1234 |
@@ -145,3 +143,42 @@ This repository was created to research vulnerabilities in ZTE routers provided 
 | Turkey | Türk Telekom | root | $F1r1@dl |
 | Vietnam | VNPT | admin | Web@0063 |
 | Vietnam | VNPT | user | Web@0763 |
+
+## F670L
+ 
+| Country | Provider | User | Pass |
+|---|---|---|---|
+| Bolivia | AXS Bolivia | admin | axsf670lv9 |
+| Bolivia | AXS Bolivia | user | Web@0763 |
+| Bolivia | Entel Bolivia | admin | 4FR0D!74@#2015 |
+| Brazil | OI | admin | Web@0063 |
+| Brazil | OI | user | Web@0763 |
+| Brazil | Multilaser | multipro | multipro |
+| Ecuador | Netlife | admin | Web@0063 |
+| Ecuador | Netlife | user | Web@0763 |
+| Ecuador | TVCable | admin | Web@0063 |
+| Ecuador | TVCable | user | Web@0763 |
+| Egypt | TE Data | user | Web@0763 |
+| India | Fastway (Netplus) | admin | Web@0063 |
+| India | Fastway (Netplus) | user | Web@0763 |
+| India | GTPL | admin | Web@0063 |
+| India | GTPL | user | Web@0763 |
+| India | Hathway | user | Web@0763 |
+| Indonesia | First Media (Linknet) | admin | @LN2021FmZTE |
+| Indonesia | MNC Play | playmedia | pl4ym3d14 |
+| Indonesia | Telkom Indonesia | admin | Telkomdso123 |
+| Indonesia | Telkom Indonesia | user | Web@0763 |
+| Mexico | TotalPlay | admin | Zgs12O5TSa2l3o9 |
+| Mexico | TotalPlay | root | admin |
+| Pakistan | PTCL | user | Web@0763 |
+| Philippines | Converge ICT | admin | Converge@zte123 |
+| Philippines | Converge ICT | operator | operator@123 |
+| Philippines | PLDT | adminpldt | HL1EU9804BKjTa6734uP370 |
+| Philippines | PLDT | admin | 1234 |
+| Russia | ER-Telecom | admin | Web@0063 |
+| Russia | ER-Telecom | user | Web@0763 |
+| Sri Lanka | SLT (Sri Lanka Telecom) | administrator | AU121BM213CH38E5 |
+| Trinidad and Tobago | Digicel | admin | Web@0063 |
+| Trinidad and Tobago | Digicel | user | Web@0763 |
+| Vietnam | FPT Telecom | user | Web@0763 |
+| Vietnam | VNPT | Vnpt | Vnpthanoi@7801 |
