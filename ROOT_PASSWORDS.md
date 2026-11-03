@@ -97,8 +97,6 @@ This repository was created to research vulnerabilities in ZTE routers provided 
 |---|---|---|---|
 | Argentina | Claro Argentina | admin | Web@0063 |
 | Argentina | Claro Argentina | user | Web@0763 |
-| Argentina | Iplan | admin | admin |
-| Argentina | Iplan | user | Web@0763 |
 | Bolivia | Entel Bolivia | admin | 4FR0D!74@#2015 |
 | Bolivia | Entel Bolivia | user | user |
 | Brazil | TIM Brasil | L1vt1m4eng | admin |
@@ -118,8 +116,6 @@ This repository was created to research vulnerabilities in ZTE routers provided 
 | Ecuador | Netlife | user | Web@0763 |
 | Hungary | Digi (RCS&RDS) | rdsadmin | TW20f0F6YsujMuzy1a4KzgFgpA |
 | Hungary | Digi (RCS&RDS) | user | digi |
-| India | Airtel | admin | admin |
-| India | Airtel | user | Web@0763 |
 | Indonesia | First Media (Linknet) | admin | @LN2018FmZTEzxhn |
 | Indonesia | First Media (Linknet) | user | Web@0763 |
 | Indonesia | iForte | admin | 1f0rt3f1b3r@zte |
@@ -145,9 +141,7 @@ This repository was created to research vulnerabilities in ZTE routers provided 
 | Romania | Digi (RCS&RDS) | user | digi |
 | Thailand | AIS (awn fibre) | awnfibre | fibre@dm!n |
 | Thailand | AIS (awn fibre) | admin | aisadmin |
-| Thailand | TOT | admin | admin |
 | Thailand | True | superadmin | TRUE@cmpAWes123 |
 | Turkey | Türk Telekom | root | $F1r1@dl |
-| Turkey | Türk Telekom | admin | admin |
 | Vietnam | VNPT | admin | Web@0063 |
 | Vietnam | VNPT | user | Web@0763 |
